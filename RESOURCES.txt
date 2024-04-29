@@ -1,0 +1,11 @@
+https://openweathermap.org/current
+
+1.- Abre Visual Studio.
+2.- Ubicate en la carpeta o directorio en la que vas a trabajar.
+3.- En la parte inferior del visual studio code busca la terminal.
+4.- Teclea npm create vite@latest y ponle el nombre a tu proyecto (2-entrega o algo asi)
+5.- Selecciona React (aparewce en color rosa creo) y luego selecciona Javascript(otro color que no recuerdo)
+6.- Escribe cd El-nombre-que-le-pusiste-a-tu-proyecto por ejemplo cd 2da-entrega, es para entrar en esa carpeta.
+7.- Escribe npm install o npm i (es lo mismo).
+8.- Escribe npm i axios (es para instalar esa libreria externa)
+9.- Escribe npm run dev (es para iniciar el servidor, es dcir ver como se ve lo que estas construyendo).
